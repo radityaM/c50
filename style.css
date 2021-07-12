@@ -1,0 +1,28 @@
+h1{
+    color:rgb(12, 32, 124);
+    width: 9000px;
+    text-align: center;
+}
+
+.header{
+    background-color: rgb(210, 148, 247);
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    background-color: rgb(35, 121, 233);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+}
+
+p,h2{
+    text-align: center;
+}
